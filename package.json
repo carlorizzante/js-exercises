@@ -1,0 +1,13 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlo Fioretti Rizzante <hello@carlorizzante.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
