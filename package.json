@@ -5,7 +5,7 @@
   "author": "Carlo Fioretti Rizzante <hello@carlorizzante.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "browser-sync start --server",
+    "dev": "browser-sync start --server --files '**/*.html, **/*.js, **/*.css'",
     "serve": "serve"
   },
   "dependencies": {
